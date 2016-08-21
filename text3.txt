@@ -1,1 +1,2 @@
 This is text3  modified in master
+This is text3  modified in branch feature1

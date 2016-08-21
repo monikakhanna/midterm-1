@@ -1,1 +1,1 @@
-This is new file in feature1
+This is new file in feature1, Changed in feature2
